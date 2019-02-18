@@ -1,11 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:200,400,700');
+
+:root {
+  --color-one: #174040;
+  --color-two: #888C65;
+  --color-three: #D9CA9C;
+  --color-four: #D98162;
+  --color-five: #A65858;
+}
+
 body {
   margin: 0;
   padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+  font-family: 'Muli', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
 }
 
 code {
