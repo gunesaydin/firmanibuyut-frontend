@@ -18,3 +18,14 @@ Since this app will be a mock version of the real one, I decided that I can have
 
 Established remote DB connection, and played around a little bit about how to handle queries. I'm not completely sure yet, so I will code min requirements tomorrow and than hop into the frontend. I want this to be something different than the previous version, I want to practice new designs.
 
+## Day 1:
+
+Created React frontend of my app. Mainly spent time roughly designing its architecture, then styling and navbar component.
+
+I was not in a comfortable working environment, and it effects my productivity.
+
+## Day 2:
+
+Added footer and login components to my frontend. Considered bootstrap and semantic for styling, but decided to go with styling components on my own. I lack CSS skills and it becomes such a huge burden for me every time, why not challenge myself and learn it?
+
+Again, I had to work outside. I was able to consantrate a little better today, but still I would prefer my own desk. Hopefully I will be able to work from my desktop tomorrow.
