@@ -1,0 +1,20 @@
+.forms-list-container {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 30%;
+  height: 100%;
+  align-content: stretch;
+}
+
+.form-card {
+  padding: 1rem;
+  background-color: var(--color-two);
+}
+
+.form-card:nth-of-type(even) {
+  background-color: var(--color-three);
+}
+
+.form-card p{
+  margin: 0;
+}
